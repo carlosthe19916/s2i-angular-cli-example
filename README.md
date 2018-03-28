@@ -1,5 +1,7 @@
 # S2iAngularCliExample
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/carlosthe19916/s2i-angular-cli-example.svg)](https://greenkeeper.io/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ## Development server
